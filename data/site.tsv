@@ -3,11 +3,10 @@ name	Amadeus Web
 byline	An Internet of Missions
 safeName	amadeusweb
 version	id: 3.1, date: 9 Mar 2025
-footer-message	Supporting Your Life's Missions With Enriching Ideas and Technology
+footer-message	Supporting Your Life's Missions With Enriching Ideas and Technology.
 siteMenuName	Amadeus Web
 scaffold	sitemap
 sections_no	
 local-url	http://localhost/awe/web/
 live-url	https://amadeusweb.com/
-footer-message	[footer message]
 year	2019
