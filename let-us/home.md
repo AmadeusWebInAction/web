@@ -1,0 +1,1 @@
+In this "**%section_r%**" section, we will deal with the many discussion points from overall goals (beyond a website) to planning process and tools to terms and timelines.  
